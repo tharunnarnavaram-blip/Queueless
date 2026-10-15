@@ -1,5 +1,5 @@
 import React from 'react';
-import { QueueProvider, useQueue } from './context/QueueContext';
+import { QueueProvider, useQueue } from "./context/QueueContext";
 import { Navbar } from './components/Navbar';
 import { QRScannerPage } from './components/QRScannerPage';
 import { CustomerBookingPage } from './components/CustomerBookingPage';
